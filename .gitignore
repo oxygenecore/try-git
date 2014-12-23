@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+### IDEA template
+# Jetbrains IDEA files
+**/*.iml
+.idea
+
+
